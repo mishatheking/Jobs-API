@@ -1,4 +1,4 @@
-#### Setup
+Setup Steps
 
 ```bash
 npm install && npm start
